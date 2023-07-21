@@ -22,6 +22,8 @@ Getting Started:
 
 Follow these steps to run the demo:
 
-Clone the repository to your local machine using git clone.
-Open the Xcode project AsyncAwaitDemo-MVP-iOS.xcodeproj.
-Build and run the project on your iOS simulator or device.
+1. Clone the repository to your local machine using git clone.
+   
+2. Open the Xcode project AsyncAwaitDemo-MVP-iOS.xcodeproj.
+   
+3. Build and run the project on your iOS simulator or device.
