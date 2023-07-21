@@ -26,4 +26,6 @@ Follow these steps to run the demo:
    
 2. Open the Xcode project AsyncAwaitDemo-MVP-iOS.xcodeproj.
    
-3. Build and run the project on your iOS simulator or device.
+3. install all pod by run command in terminal Go to ~> cd <project directory> ~> pod install
+   
+4. Build and run the project on your iOS simulator or device.
